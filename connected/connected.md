@@ -5,6 +5,6 @@ type:
 title: WiFi Connected
 ---
 
-You have successfully connected to the WiFi.
+La conexión con el museo es correcta.
 
-<a href="../welcome/" target="_system">Launch Audio Guide</a>
+<a href="../welcome/" target="_system">Acceder a la audio guía.</a>
