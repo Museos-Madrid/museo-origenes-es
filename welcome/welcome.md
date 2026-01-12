@@ -1,6 +1,6 @@
 ---
 layout: welcome
-permalink: /welcome/
+permalink: /bienvenido/
 type:
 title: Bienvenidos
 ---
